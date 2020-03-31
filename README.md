@@ -12,4 +12,6 @@ Un blog increíble hecho para aprender el curso de Git & GitHub.
 * Las personalidades múltiples de Freddy
 
 Hablame por [Instagram](https://www.instagram.com/jaldernicolas/) si tienes alguna duda o sugerencia. 
-<p> <img src="imagenes/bb.gif" width="40%"/></p>
+
+
+![](https://rick76056.github.io/MY-FIRST-REPO/imagenes/START.jpg)
