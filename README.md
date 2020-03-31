@@ -1,8 +1,8 @@
 # MY FIRST BLOG 😎 👌
 Un blog increíble hecho para aprender el curso de Git & GitHub.
->  **Siempre se puede encontrar algo que aprender de cada persona.**
+>  **Siempre se puede encontrar algo que aprender de cada persona, el detalle está que tenemos los ojos vendados que no somos capaces de ver las fortalezas de cada persona.**
 >
->Jalder  Nicolas
+>Nicolas Ballena
 
 ## En este curso vemos de todo:
 * Todos los comandos de Git
